@@ -52,13 +52,13 @@ graph TD
 ## 📋 Implementation Steps
 
 ### 1. Environment Setup
-- [ ] Create Azure resource group
+- [x] Create Azure resource group
 - [ ] Configure Azure App Service
 - [ ] Set up Azure Container Registry
 
 ### 2. Application Development
-- [ ] Develop web interface
-- [ ] Integrate weather API
+- [x] Develop web interface
+- [x] Integrate weather API
 - [ ] Create Docker configuration
 - [ ] Implement alert system using Azure Functions
 
